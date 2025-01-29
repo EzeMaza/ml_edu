@@ -16,11 +16,13 @@ The explanations are kept concise, focusing on key concepts that I found essenti
 ### How to Use 
 1.  Clone the repository:
 ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/EzeMaza/ml_edu.git
 ```
 
-3.   Open a Jupyter Notebook:
-jupyter notebook
-
-4.  Run the code and modify it to experiment!
-### Requirements – If applicable, list dependencies (e.g., NumPy, scikit-learn).
+2.   Open a Jupyter Notebook:
+```bash
+   jupyter notebook
+```
+3.  Run the code and modify it to experiment!
+   
+### Requirements 
